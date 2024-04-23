@@ -8,10 +8,10 @@ But here's the catch: while open source creates immense value, the individuals a
 
 Join us at our upcoming event at the end of the month, where we'll dive deep into the world of open-source contributions. Let's explore how we can support and reward those who make open source thrive, while also fostering innovation and collaboration.
 
-What are Python Open Source Sprints?
+## What are Python Open Source Sprints?
 Open-source software, like Python and its various libraries, is created by a collaboration of numerous programmers. People like you dedicate their time to enhancing these tools by adding to documentation, running tests, fixing bugs, and introducing new features. This workshop offers you a fantastic chance to actively participate in improving the Python library you rely on, with guidance along the way.
 
-Can I participate if I have never contributed to open source?
+## Can I participate if I have never contributed to open source?
 Sure! If you have some experience with Python, no matter which area of application (e.g. data analysis, web development, machine learning, etc...) you're invited to join us. The workshop will be led by mentors from PyLadies Stockholm and Theodora Tech, who will provide guidance throughout the event.
 
 ## Requirements
@@ -39,7 +39,7 @@ Sure! If you have some experience with Python, no matter which area of applicati
 * Create a new branch to carry out your development. Navigate to the local folder of the cloned repository and use the git checkout command to create a new branch `git checkout -b new-user-contribution`
 
 4. Develop, Stage, and Commit
-* In the new branch, you can use your favorite IDE, Text Editor, or any tools to make the necessary changes to the source code.
+* In the new branch, you can use your favourite IDE, Text Editor, or any tools to make the necessary changes to the source code.
 * Then you need to stage these changes and commit the changes to the repository. Use the "git add ." to add the modified files and then the "git commit" command to commit the changes.
 
 `git add <.\Contributors.md>`
